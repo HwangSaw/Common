@@ -1,0 +1,6 @@
+^C:\USERS\GEPODONG\DOCUMENTS\VISUAL STUDIO 2019\SERVER\NEW\SNGCOMMON\C2C.PIDL
+dir "C:\Program Files (x86)\Nettention\ProudNet\util\PIDL.exe" "C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon\C2C.PIDL" -cpp
+^C:\USERS\GEPODONG\DOCUMENTS\VISUAL STUDIO 2019\SERVER\NEW\SNGCOMMON\C2S.PIDL
+dir "C:\Program Files (x86)\Nettention\ProudNet\util\PIDL.exe" "C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon\C2S.PIDL" -cpp
+^C:\USERS\GEPODONG\DOCUMENTS\VISUAL STUDIO 2019\SERVER\NEW\SNGCOMMON\S2C.PIDL
+dir "C:\Program Files (x86)\Nettention\ProudNet\util\PIDL.exe" "C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon\S2C.PIDL" -cpp
