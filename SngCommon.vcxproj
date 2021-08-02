@@ -162,6 +162,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="SngCommon.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>

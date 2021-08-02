@@ -11,8 +11,10 @@
 // 여기에 미리 컴파일하려는 헤더 추가
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
 
-#include "ProudNetServer.h"
+
+#include "ProudNetCommon.h"
+
+using namespace Proud;
+
 #endif //PCH_H

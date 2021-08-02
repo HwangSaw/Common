@@ -14,7 +14,7 @@
    C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon 디렉터리
   
                  1개 파일                   0 바이트
-                 0개 디렉터리  722,616,369,152 바이트 남음
+                 0개 디렉터리  722,201,264,128 바이트 남음
   C2S.PIDL Compiling...
    C 드라이브의 볼륨에는 이름이 없습니다.
    볼륨 일련 번호: 3869-CB7A
@@ -31,7 +31,7 @@
    C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon 디렉터리
   
                  1개 파일                   0 바이트
-                 0개 디렉터리  722,616,369,152 바이트 남음
+                 0개 디렉터리  722,201,264,128 바이트 남음
   S2C.PIDL Compiling...
    C 드라이브의 볼륨에는 이름이 없습니다.
    볼륨 일련 번호: 3869-CB7A
@@ -48,7 +48,7 @@
    C:\Users\gepodong\Documents\Visual Studio 2019\server\new\SngCommon 디렉터리
   
                  1개 파일                   0 바이트
-                 0개 디렉터리  722,616,369,152 바이트 남음
+                 0개 디렉터리  722,201,264,128 바이트 남음
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "C2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\c2c_common.cpp"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "C2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\c2c_common.h"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "C2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\c2c_proxy.cpp"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
@@ -67,6 +67,6 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "S2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\s2c_proxy.h"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "S2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\s2c_stub.cpp"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: "S2C.PIDL" 항목에 대한 사용자 지정 빌드에 성공했지만 지정한 출력 "c:\users\gepodong\documents\visual studio 2019\server\new\sngcommon\s2c_stub.h"이(가) 생성되지 않았습니다. 이 오류로 인해 증분 빌드가 제대로 작동하지 않을 수 있습니다.
-  pch.cpp
   SngCommon.cpp
-  SngCommon.vcxproj -> C:\Users\gepodong\Documents\Visual Studio 2019\server\new\testProudNet\x64\Debug\SngCommon.exe
+MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\gepodong\Documents\Visual Studio 2019\server\new\testProudNet\x64\Debug\SngCommon.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
